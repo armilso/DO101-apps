@@ -1,2 +1,2 @@
-console.log("Hello World!\n");
+console.log("Bienvenido a mi aplicaci&oacute;n\n");
 
